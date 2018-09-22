@@ -1,0 +1,356 @@
+@media (max-width: 1024px) {
+   
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    #about-page .block .read-more {
+        position: relative;
+    }
+    #about-page .contact h3 {
+        text-align: center;
+    }
+    #about-page .block .content p {
+        font-size: 14px;
+    }
+    #about-page .block .content h2 {
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+    footer .footer-block {
+        margin-top: 50px;
+    }
+    #about-page .block {
+        height: auto;
+    }
+    #about-page .block .read-more {
+        position: relative;
+    }
+    #about-page .contact h3 {
+        line-height: 30px;
+    }
+    #blog-post-page .main {
+        margin-top: 80px;
+    }
+    #blog-post-page .next-post-widget-section .block .next-post {
+        margin-top: 20px;
+    }
+    #blog-post-page .next-post-widget-section .block .next-post .info {
+        text-align: left;
+        display: normal;
+    }
+    #blog-post-page .next-post-widget-section .block .next-post img {
+        float: left;
+        margin: 0 15px 0 0;
+    }
+    #blog-post-page .next-post-widget-section .block .next-post .info span {
+        float: left;
+        text-align: left;
+    }
+    #blog-post-page .comment-section #comments .avatar {
+        width: 50px;
+        height: 50px;
+    }
+    .author-section .block .author-img ,
+    .author-section .block .author-info {
+        width: 100%;
+        margin: 0 auto 20px auto;
+        text-align: center;
+    }
+    .author-section .block .author-img img {
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .author-section .block {
+        float: none;
+    }
+    .block .social {
+        text-align: center;
+    }
+    .block .social div {
+        padding-left: 0;
+    }
+    footer .social ,
+    footer .copy-right-text {
+        float: none;
+        text-align: center;
+    }
+    footer .social div {
+        padding-left: 0;
+    }
+    footer .copy-right-text {
+        margin-bottom: 20px;
+    }
+    .accordion__content .item .post-info {
+        margin: 0;
+    }
+}
+
+@media (max-width: 767px) {
+
+    #recent-posts .item {
+        margin: 0 20px 20px 20px;
+    }
+    #recent-posts .item .post-info {
+        margin-right: 20px;
+    }
+    #blog-post-page .next-post-widget-section .block .next-post .info span {
+        width: 100%;
+    }
+    .navbar {
+        height: 81px !important;
+    }
+    .navbar-nav {
+    	overflow: hidden;
+        background-color: #fff;
+    }
+    #search input {
+        left: 45%;
+    }
+    #search input:active ,
+    #search input:hover {
+        left: 5% !important;
+    }
+    .navbar-nav > li > a {
+	    line-height: 50px;
+	    text-align: center;
+	    border-top: 1px solid #e1e1e1;
+	    border-bottom: #e1e1e1;
+	    border-left: 2px solid #fff;
+	    border-right: 2px solid #fff;
+    }
+    .navbar-nav > li > a:hover ,
+    .navbar-nav > li > a:active ,
+    .navbar-nav > li > a:focus {
+        border-color: #464646;
+        border-top: 1px solid #e1e1e1;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+        text-align: center;
+        overflow: hidden;
+        
+    }
+    .navbar-default .navbar-nav > .open > a ,
+    .navbar-default .navbar-nav > .open > a:hover ,
+    .navbar-default .navbar-nav > .open > a:focus ,
+    .navbar-default .navbar-nav > .open > a ,
+    .navbar-default .navbar-nav > .active > a {
+	    background-image: none;
+	    background-color: #fff;
+	    box-shadow: none;
+	    border-color: #e9e9e9;
+    }
+    .navbar-nav .open .dropdown-menu {
+
+    }
+    nav.after-scroll .navbar-nav > li > a {
+        line-height: 50px;
+    }
+    footer .footer-block {
+        margin-top: 50px;
+    }
+    #about-page .block {
+        height: auto;
+    }
+    #about-page .block .read-more {
+        position: relative;
+    }
+    #about-page .contact h3 {
+        line-height: 30px;
+    }
+    #blog-post-page .main {
+        margin-top: 80px;
+    }
+    #blog-post-page .next-post-widget-section .block .next-post {
+        margin-top: 100px;
+    }
+    #blog-post-page .next-post-widget-section .block .next-post .info {
+        text-align: left;
+        display: normal;
+    }
+    #blog-post-page .next-post-widget-section .block .next-post img {
+        float: left;
+        margin: 0 15px 0 0;
+    }
+    #blog-post-page .next-post-widget-section .block .next-post .info span {
+        float: left;
+        text-align: left;
+    }
+    #comment_form div:last-of-type {
+        padding-left: 0;
+    }
+    .comment-section #comments .avatar {
+        width: 50px;
+        height: 50px;
+    }
+    .author-section .block .author-img ,
+    .author-section .block .author-info {
+        width: 100%;
+        margin: 0 auto 20px auto;
+        text-align: center;
+    }
+    .author-section .block .author-img img {
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .author-section .block {
+        float: none;
+    }
+    .author-section .block .social {
+        text-align: center;
+    }
+    .author-section .block .social div {
+        padding-left: 0;
+    }
+    .navbar-nav {
+        margin: 0;
+        padding: 0;
+    }
+    .navbar-collapse {
+        margin: 0;
+        padding: 0;
+    }
+    footer .social ,
+    footer .copy-right-text {
+        float: none;
+        text-align: center;
+    }
+    footer .copy-right-text {
+        margin-bottom: 20px;
+    }
+    footer .social div {
+        padding-left: 0;
+    }
+    .accordion__content .item .post-info {
+        margin: 0;
+    }
+    .accordion {
+        padding: 0 15px;
+    }
+    .accordion__content .item .post-info .title {
+        font-size: 28px;
+    }
+    .accordion__content .item .post-info .post-details div {
+        font-size: 14px;
+    }
+    .accordion__content .item .post-info .post-details div span {
+        font-size: 14px;
+    }
+    .accordion__content .item .post-info #read-more a {
+        display: none;
+    }
+    .sidebar-section .block {
+        margin: 15px 15px 30px 15px;
+    }
+    .col-md-6 .review, .col-md-6 .item-hover, .col-md-6 .item-hover .mask, .col-md-6 .item-img, .col-md-6 .item-info {
+        width: 100%;
+    }
+    #blog-post-page .block .post #content {
+        padding: 30px;
+    }
+    .full-width .share-btn {
+        margin: 0;
+        text-align: center;
+    }
+    .lg-post .share .share-btn li {
+        border-top: 1px solid #DADFE1;
+    }
+    .lg-post .share #author {
+        margin-left: 0;
+        text-align: center;
+        width: 100%;
+    }
+}
+
+@media (max-width: 479px) {
+    .review, .item-hover, .item-hover .mask, .item-img, .item-info {
+        width: 100%;
+    }
+    .lg-post .block #title {
+        font-size: 28px;
+    }
+    .lg-post .block #content {
+        font-size: 16px;
+    }
+    .full-width .share-btn {
+        margin: 0;
+        text-align: center;
+    }
+    .lg-post .share .share-btn li {
+        border-top: 1px solid #DADFE1;
+    }
+    .lg-post .share #author {
+        margin-left: 0;
+        margin-bottom: 15px;
+        width: 100%;
+    }
+    .lg-post .share #author div {
+        text-align: center;
+    }
+    .next-divider {
+        top: 50px;
+    }
+    #blog-post-page .next-post-widget-section .block .next-post .info span {
+        width: 100%;
+    }
+    #blog-post-page .next-post-widget-section .block .next-post .info {
+        margin-top: 30px;
+    }
+    #comment_form .contact_btn {
+        width: 100%;
+    }
+    #blog-post-page .comment-section #comments .avatar {
+        height: 100%;
+        padding-bottom: 15px;
+    }
+    #blog-post-page .block .post #content {
+        font-size: 16px;
+    }
+    #blog-post-page .block.slider .post {
+        padding-top: 30px;
+    }
+    .related-posts .block .rel-post {
+        max-width: 100%;
+        padding-top: 30px;
+    }
+    #blog-post-page .comment-section #comments .comment_inf_sep {
+        display: none;
+    }
+    #about-page .block {
+        height: auto;
+    }
+    #about-page .block .read-more {
+        position: relative;
+    }
+    #about-page .contact h3 {
+        line-height: 30px;
+    }
+    .pagination > li > a ,
+    .pagination > li > span {
+        padding: 8px 16px;
+        font-size: 18px;
+        margin: 5px 5px;
+    }
+    .accordion__content .item .post-thumbnail {
+        display: none;
+    }
+    .accordion__content .item .post-info {
+        padding-left: 30px;
+    }
+    .accordion__content .item .post-info #read-more a {
+        display: block;
+    }
+    .post-information .author,
+    .post-information .post-det {
+        width: 100%;
+    }
+    .post-information .post-det {
+        padding-top: 30px;
+    }
+    .post-information .post-det .post-info .post-share {
+        padding-top: 30px;
+        width: 100%;
+        text-align: center;
+    }
+}
